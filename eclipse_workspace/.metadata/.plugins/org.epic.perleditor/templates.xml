@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template context="perl" description="Perl Script Starter" enabled="true" name="perl">#!${interpreter}
+use strict;
+use warnings;
+
+${cursor}</template><template context="perl" description="Perl Package Starter" enabled="true" name="package">package ${packagename};
+
+${cursor}</template></templates>

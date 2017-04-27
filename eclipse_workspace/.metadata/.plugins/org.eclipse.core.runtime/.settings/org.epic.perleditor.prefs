@@ -1,0 +1,5 @@
+CodeAssist.autoActivationChars=>\:<$%@abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+PERL_EXECUTABLE="C\:\\Strawberry\\perl\\bin\\perl.exe"
+eclipse.preferences.version=1
+sourceFolding.perldoc=true
+sourceFolding.subroutine=true
